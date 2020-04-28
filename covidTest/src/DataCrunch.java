@@ -3,6 +3,7 @@ import java.util.*;
 
 public class DataCrunch {
 	Scanner reader = new Scanner(System.in);
+	FindLevel f = new FindLevel();
 	BufferedReader br;
 	StringTokenizer st;
 	
